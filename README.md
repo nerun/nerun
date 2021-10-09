@@ -1,9 +1,11 @@
 ## My sites
-* [GURPZine](https://www.gurpzine.com.br) - Tabletop Roleplaying Games, in brazilian portuguese
-* [Linuxers Noobs](http://linuxernoob.blogspot.com) - Adventurers of a linuxer noob, in brazilian portuguese
-* [RPG Livre WiKi](https://rpg.miraheze.org) - Wiki of Open / Free RPG, in brazilian portuguese
+🇧🇷 *brazilian portuguese*
+* [GURPZine](https://www.gurpzine.com.br) - Tabletop Roleplaying Games
+* [Linuxers Noobs](http://linuxernoob.blogspot.com) - Adventures of a linuxer newbie
+* [RPG Livre WiKi](https://rpg.miraheze.org) - Wiki of Open / Free RPG
 
 ## Useful links
+🇺🇸 *international language*
 * DILLINGER. [Online Markdown Editor](https://dillinger.io) - test your markdowns
 * GITHUB. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - markdown codes
 * MARKDOWN GUIDE. [Basic Syntax](https://www.markdownguide.org/basic-syntax) - excellent guide
