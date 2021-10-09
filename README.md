@@ -1,4 +1,13 @@
-### Hi there 👋
+## My sites
+* [GURPZine](https://www.gurpzine.com.br) - Tabletop Roleplaying Games, in brazilian portuguese
+* [Linuxers Noobs](http://linuxernoob.blogspot.com) - Adventurers of a linuxer noob, in brazilian portuguese
+* [RPG Livre WiKi](https://rpg.miraheze.org) - Wiki of Open / Free RPG, in brazilian portuguese
+
+## Useful links
+* DILLINGER. [Online Markdown Editor](https://dillinger.io) - test your markdowns
+* GITHUB. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - markdown codes
+* MARKDOWN GUIDE. [Basic Syntax](https://www.markdownguide.org/basic-syntax) - excellent guide
+* [SHIELDS IO](https://shields.io/) - create and add *badges* to your project
 
 <!--
 **nerun/nerun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
