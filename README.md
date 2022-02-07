@@ -2,7 +2,6 @@
 🇧🇷 *brazilian portuguese*
 * [GURPZine](https://www.gurpzine.com.br) - Tabletop Roleplaying Games
 * [Linuxers Noobs](http://linuxernoob.blogspot.com) - Adventures of a linuxer newbie
-* [RPG Livre WiKi](https://rpg.miraheze.org) - Wiki of Open / Free RPG
 
 ## Useful links
 🇺🇸 *international language*
