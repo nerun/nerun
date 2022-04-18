@@ -2,6 +2,7 @@
 🇧🇷 *brazilian portuguese*
 * [GURPZine](https://www.gurpzine.com.br) - Tabletop Roleplaying Games
 * [Linuxers Noobs](http://linuxernoob.blogspot.com) - Adventures of a linuxer newbie
+* [GitHub Gist](https://gist.github.com/nerun) - my gist!
 
 ## Useful links
 🇺🇸 *international language*
