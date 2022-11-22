@@ -4,7 +4,9 @@
 * [Linuxers Noobs](http://linuxernoob.blogspot.com) - Adventures of a linux newbie
 * [Wiki RPG](https://rpg.fandom.com/pt-br/wiki/RPG_Wiki) - Wiki about Open Tabletop Roleplaying Games
 * [GitHub Gist](https://gist.github.com/nerun) - my gist!
-
+<!--
+![alt text](https://stc.pagseguro.uol.com.br/public/img/botoes/doacoes/120x53-doar.gif "Pague com PagSeguro - é rápido, grátis e seguro!")
+-->
 ## Useful links
 🇺🇸 *international language*
 * DILLINGER. [Online Markdown Editor](https://dillinger.io) - test your markdowns
@@ -12,6 +14,7 @@
 * MARKDOWN GUIDE. [Basic Syntax](https://www.markdownguide.org/basic-syntax) - excellent guide
 * [SHIELDS IO](https://shields.io/) - create and add *badges* to your project
 
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=588K8NPMS7BQC)
 <!--
 **nerun/nerun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
