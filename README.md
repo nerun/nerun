@@ -2,7 +2,7 @@
 🇧🇷 *brazilian portuguese*
 * [GURPZine](https://www.gurpzine.com.br) - Tabletop Roleplaying Games
 * [Linuxers Noobs](http://linuxernoob.blogspot.com) - Adventures of a linux newbie
-* [Wiki RPG](https://rpg.fandom.com/pt-br/wiki/RPG_Wiki) - Wiki about Open Tabletop Roleplaying Games
+* [RPG Livre](https://www.gurpzine.com.br/wiki) - Wiki about Open Tabletop Roleplaying Games
 * [GitHub Gist](https://gist.github.com/nerun) - my gist!
 <!--
 ![alt text](https://stc.pagseguro.uol.com.br/public/img/botoes/doacoes/120x53-doar.gif "Pague com PagSeguro - é rápido, grátis e seguro!")
