@@ -1,18 +1,18 @@
 ## My sites
 🇧🇷 *brazilian portuguese*
-* [GURPZine](https://www.gurpzine.com.br) - Tabletop Roleplaying Games
-* [Linuxers Noobs](http://linuxernoob.blogspot.com) - Adventures of a linux newbie
-* [RPG Livre](https://www.gurpzine.com.br/wiki) - Wiki about Open Tabletop Roleplaying Games
-* [GitHub Gist](https://gist.github.com/nerun) - my gist!
+* [GURPZine](https://www.gurpzine.com.br) — Tabletop Roleplaying Games
+* [Linuxers Noobs](http://linuxernoob.blogspot.com) — Adventures of a linux newbie
+* [RPG Livre](https://www.gurpzine.com.br/wiki) — Wiki about Open Tabletop Roleplaying Games
+* [GitHub Gist](https://gist.github.com/nerun) — my gist!
 <!--
 ![alt text](https://stc.pagseguro.uol.com.br/public/img/botoes/doacoes/120x53-doar.gif "Pague com PagSeguro - é rápido, grátis e seguro!")
 -->
 ## Useful links
 🇺🇸 *international language*
-* DILLINGER. [Online Markdown Editor](https://dillinger.io) - test your markdowns
-* GITHUB. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - markdown codes
-* MARKDOWN GUIDE. [Basic Syntax](https://www.markdownguide.org/basic-syntax) - excellent guide
-* [SHIELDS IO](https://shields.io/) - create and add *badges* to your project
+* DILLINGER. [Online Markdown Editor](https://dillinger.io) — test your markdowns
+* GITHUB. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) — markdown codes
+* MARKDOWN GUIDE. [Basic Syntax](https://www.markdownguide.org/basic-syntax) — excellent guide
+* [SHIELDS IO](https://shields.io/) — create and add *badges* to your project
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=T95ZWHGTG2GT2)
 <!--
