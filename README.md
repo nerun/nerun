@@ -14,7 +14,11 @@
 * MARKDOWN GUIDE. [Basic Syntax](https://www.markdownguide.org/basic-syntax) — excellent guide
 * [SHIELDS IO](https://shields.io/) — create and add *badges* to your project
 
+## Donate
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=T95ZWHGTG2GT2)
+
+## My Public GPG Key
+[Daniel Dias Rodrigues \<danieldiasr@gmail.com\> (355472DC82FCF527)](https://keyserver.pgp.com/vkd/DownloadKey.event?keyid=0x355472DC82FCF527)
 <!--
 **nerun/nerun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
