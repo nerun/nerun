@@ -15,7 +15,8 @@
 * [SHIELDS IO](https://shields.io/) — create and add *badges* to your project
 
 ## Donate
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=T95ZWHGTG2GT2)
+| [![PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=T95ZWHGTG2GT2) | [![Bitcoin](https://i.stack.imgur.com/MnQ6V.png)](https://www.blockchain.com/explorer/addresses/btc/18twTBALhxKqKjt9aAmfwTB7dR5LqErRa9) |
+|:-------------:|:-------------:|
 
 ## My Public GPG Key
 [Daniel Dias Rodrigues \<danieldiasr@gmail.com\> (355472DC82FCF527)](https://keyserver.pgp.com/vkd/DownloadKey.event?keyid=0x355472DC82FCF527)
