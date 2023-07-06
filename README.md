@@ -15,8 +15,8 @@
 * [SHIELDS IO](https://shields.io/) — create and add *badges* to your project
 
 ## My Public Keys
-* [Daniel Dias Rodrigues \<danieldiasr@gmail.com\>](https://keyserver.pgp.com/vkd/DownloadKey.event?keyid=0x355472DC82FCF527)(355472DC82FCF527)
-* ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEdL5BwraNReEx9WoTGLhmIDW9ttX8Yy7q2UJwHFNsjR danieldiasr@gmail.com
+* PGP: [Daniel Dias Rodrigues \<danieldiasr@gmail.com\>](https://keyserver.pgp.com/vkd/DownloadKey.event?keyid=0x355472DC82FCF527)(42067CDD6C3B78ECBEEFB996355472DC82FCF527)
+* SSH: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEdL5BwraNReEx9WoTGLhmIDW9ttX8Yy7q2UJwHFNsjR danieldiasr@gmail.com
 
 ## Donate
 | [![PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=T95ZWHGTG2GT2) | [![Bitcoin](https://i.stack.imgur.com/MnQ6V.png)](https://www.blockchain.com/explorer/addresses/btc/18twTBALhxKqKjt9aAmfwTB7dR5LqErRa9) |
