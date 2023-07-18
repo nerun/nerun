@@ -20,7 +20,7 @@
   * [Download from Github](https://github.com/nerun/nerun/blob/main/key0x355472DC82FCF527.asc)
   * Fingerprint: `42067CDD6C3B78ECBEEFB996355472DC82FCF527`
 * SSH:
-  * [Download from GitHub](https://github.com/nerun/nerun/blob/main/id_ed25519.pub)
+  * [Download from GitHub](https://github.com/nerun/nerun/blob/main/danieldiasr_id_ed25519.pub)
 
 ## Donate
 | [![PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=T95ZWHGTG2GT2) | [![Bitcoin](https://i.stack.imgur.com/MnQ6V.png)](https://www.blockchain.com/explorer/addresses/btc/bc1q8uk7cxujtxfguxcqw9l7889zwee86q582ysgcf) |
