@@ -10,8 +10,9 @@
 ## Useful links
 <img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="16"> *international language*
 * DILLINGER. [Online Markdown Editor](https://dillinger.io) — test your markdowns
-* PRITCHARD, Adam. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) — markdown codes
-* MARKDOWN GUIDE. [Basic Syntax](https://www.markdownguide.org/basic-syntax) — excellent guide
+- CONE, Matt. [Basic Syntax](https://www.markdownguide.org/basic-syntax). *Makdown Guide*.
+- GitHub Docs. [Writing on GitHub](https://docs.github.com/en/get-started/writing-on-github). _GitHub.com_.
+- PRITCHARD, Adam. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). _GitHub: markdown-here_.
 * [SHIELDS IO](https://shields.io/) — create and add *badges* to your project
 * [Progress Bar](https://github.com/fredericojordan/progress-bar) — add progress bars as *badges* to your project
 
