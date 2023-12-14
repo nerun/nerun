@@ -2,8 +2,8 @@
 
 * [GitHub Gist](https://gist.github.com/nerun) — my gist!
 * [GURPZine](https://www.gurpzine.com.br) — Tabletop Roleplaying Games ![brazilian portuguese][br]
+* [GURPZine Wiki](https://www.gurpzine.com.br/wiki) — Wiki about Open Tabletop Roleplaying Games ![brazilian portuguese][br]
 * [Linuxers Noobs](http://linuxernoob.blogspot.com) — Adventures of a linux newbie ![brazilian portuguese][br]
-* [RPG Livre](https://www.gurpzine.com.br/wiki) — Wiki about Open Tabletop Roleplaying Games ![brazilian portuguese][br]
 
 [br]: flag-br.png
 
