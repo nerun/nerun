@@ -7,6 +7,9 @@
 
 [br]: flag-br.png
 
+# My GPG publick key
+* [GPG](https://github.com/nerun/nerun/blob/main/key0x355472DC82FCF527.asc) — fingerprint 42067CDD6C3B78ECBEEFB996355472DC82FCF527
+
 # Docs and Utilities
 
 * DILLINGER. [Online Markdown Editor](https://dillinger.io) — test your markdowns ![english][us]
@@ -17,11 +20,6 @@
 * [Progress Bar](https://github.com/fredericojordan/progress-bar) — add progress bars as *badges* to your project ![english][us]
 
 [us]: flag-us.png
-
-# My Public Keys
-
-* [GPG](https://github.com/nerun/nerun/blob/main/key0x355472DC82FCF527.asc) — fingerprint 42067CDD6C3B78ECBEEFB996355472DC82FCF527
-* [SSH](https://github.com/nerun/nerun/blob/main/danieldiasr_id_ed25519.pub)
 
 # Donate
 
