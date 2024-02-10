@@ -8,7 +8,7 @@
 [br]: flag-br.png
 
 # My GPG publick key
-* [GPG](https://github.com/nerun/nerun/blob/main/key0x355472DC82FCF527.asc) — fingerprint 42067CDD6C3B78ECBEEFB996355472DC82FCF527
+* [GPG] creating another one...
 
 # Docs and Utilities
 
