@@ -8,7 +8,7 @@
 [br]: flag-br.png
 
 # My GPG publick key
-* [GPG](https://github.com/nerun/nerun/blob/main/gpg_publickey.asc)
+* [GPG](gpg_publickey.asc)
 
 # Docs and Utilities
 
