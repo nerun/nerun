@@ -8,7 +8,7 @@
 [br]: flag-br.png
 
 # My GPG publick key
-* [GPG](gpg_publickey.asc)
+* [GPG key](gpg_publickey.asc) — fingerprint `9FA6F802133698568D6AE8019AEFB099C62DAB96`
 
 # Docs and Utilities
 
