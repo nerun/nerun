@@ -12,6 +12,7 @@
 
 # Docs and Utilities
 
+* MENDEL, Gustavo. [Guia definitivo de markdown](https://github.com/mende1/guia-definitivo-de-markdown) ![brazilian portuguese][br]
 * DILLINGER. [Online Markdown Editor](https://dillinger.io) — test your markdowns ![english][us]
 * CONE, Matt. [Basic Syntax](https://www.markdownguide.org/basic-syntax). *Makdown Guide*. ![english][us]
 * GitHub Docs. [Writing on GitHub](https://docs.github.com/en/get-started/writing-on-github). _GitHub.com_. ![english][us]
