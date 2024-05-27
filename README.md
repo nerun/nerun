@@ -7,7 +7,7 @@
 [br]: flag-br.png
 
 ## My GPG publick key
-* [GPG key](https://drive.google.com/file/d/1CY-uwRk7qtPCO9jKfCs-YzCt1f32W_Ej/view?usp=drive_link) — fingerprint `9FA6F802133698568D6AE8019AEFB099C62DAB96`
+* [GPG key](GPG.txt) — fingerprint `9FA6F802133698568D6AE8019AEFB099C62DAB96`
 
 ## Markdown Guides
 
