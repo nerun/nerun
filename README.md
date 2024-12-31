@@ -19,7 +19,7 @@
 ## Utilities
 * [Online Markdown Editor](https://dillinger.io) — test your markdowns ![english][us]
 * [SHIELDS IO](https://shields.io/) — create and add *badges* to your project ![english][us]
-* [Progress Bar](https://github.com/fredericojordan/progress-bar) — add progress bars as *badges* to your project ![english][us]
+* [Progress Bar](https://github.com/guibranco/progressbar) — add progress bars as *badges* to your project ![english][us]
 
 [us]: flag-us.png
 
