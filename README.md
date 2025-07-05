@@ -24,5 +24,5 @@
 
 [us]: flag-us.png
 
-| [![PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=T95ZWHGTG2GT2) | [![Bitcoin](https://i.imgur.com/h7dQZyz.png)](https://www.blockchain.com/explorer/addresses/btc/bc1q8uk7cxujtxfguxcqw9l7889zwee86q582ysgcf) | [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danieldiasr@gmail.com) |
-|:-----:|:-----:|:-----:|
+| [![PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=T95ZWHGTG2GT2) | [![Bitcoin](https://i.imgur.com/h7dQZyz.png)](https://www.blockchain.com/explorer/addresses/btc/bc1q8uk7cxujtxfguxcqw9l7889zwee86q582ysgcf) |
+|:-----:|:-----:|
