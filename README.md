@@ -6,8 +6,8 @@
 
 [br]: flag-br.png
 
-## My GPG public key
-* [GPG key](https://raw.githubusercontent.com/nerun/nerun/main/danieldiasr_gpg_public.asc) — fingerprint `9FA6F802133698568D6AE8019AEFB099C62DAB96`
+## GnuPG
+[![GnuPG key](https://img.shields.io/badge/GnuPG_Public_Key-333?style=for-the-badge&logo=GNU%20Privacy%20Guard&logoColor=0093DD)](https://raw.githubusercontent.com/nerun/nerun/main/danieldiasr_gpg_public.asc)<br />fingerprint `9FA6F802133698568D6AE8019AEFB099C62DAB96`
 
 ## Markdown Guides
 
@@ -20,9 +20,12 @@
 * [Online Markdown Editor](https://dillinger.io) — test your markdowns ![english][us]
 * [SHIELDS IO](https://shields.io/) — create and add *badges* to your project ![english][us]
 * [Progress Bar](https://github.com/guibranco/progressbar) — add progress bars as *badges* to your project ![english][us]
-* [Badges 4 README.md Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file#-cryptocurrency-)
+* [Badges 4 README.md Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
 [us]: flag-us.png
 
-| [![PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=T95ZWHGTG2GT2) | [![Bitcoin](https://i.imgur.com/h7dQZyz.png)](https://www.blockchain.com/explorer/addresses/btc/bc1q8uk7cxujtxfguxcqw9l7889zwee86q582ysgcf) |
-|:-----:|:-----:|
+## Buy Me a Coffee
+
+[![Bitcoin](https://img.shields.io/badge/Bitcoin-orange?style=for-the-badge&logo=bitcoin&logoColor=orange&label=donate)](https://www.blockchain.com/explorer/addresses/btc/bc1q8uk7cxujtxfguxcqw9l7889zwee86q582ysgcf)
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white&label=donate)](https://www.paypal.com/donate/?hosted_button_id=T95ZWHGTG2GT2)
