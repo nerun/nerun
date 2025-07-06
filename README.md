@@ -10,7 +10,7 @@
 
 <a href="https://raw.githubusercontent.com/nerun/nerun/main/danieldiasr_gpg_public.asc"><img src="https://img.shields.io/badge/GnuPG_Public_Key-333?style=for-the-badge&logo=GNU%20Privacy%20Guard&logoColor=0093DD"></a><br />fingerprint `9FA6F802133698568D6AE8019AEFB099C62DAB96`
 
-## <img src="markdown.png" width="32px"> Markdown Guides
+## <img src="markdown.png" width="32px" style="vertical-align: text-bottom;"> Markdown Guides
 
 * MENDEL, Gustavo. [Guia definitivo de markdown](https://github.com/mende1/guia-definitivo-de-markdown). _GitHub.com_. ![brazilian portuguese][br]
 * CONE, Matt. [Basic Syntax](https://www.markdownguide.org/basic-syntax). *Makdown Guide*. ![english][us]
