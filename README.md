@@ -3,6 +3,7 @@
 * [GitHub Gist](https://gist.github.com/nerun) &mdash; my gist!
 * [GURPZine](https://www.gurpzine.com.br) &mdash; Tabletop Roleplaying Games ![brazilian portuguese][br]
 * [Linuxers Noobs](http://linuxernoob.blogspot.com) &mdash; Adventures of a linux newbie ![brazilian portuguese][br]
+* [Summary](https://github.com/nerun/sumario) &mdash; Summary of my own repos
 
 [br]: flag-br.png
 
