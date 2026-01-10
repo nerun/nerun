@@ -16,16 +16,16 @@
 - [legend-srd](https://github.com/nerun/legend-srd)
 - [sistema2d6](https://github.com/nerun/sistema2d6)
 - [sistema-daemon](https://github.com/nerun/sistema-daemon)
-- [RPG_Doc_Template](https://github.com/nerun/RPG_Doc_Template)
+- [RPG_Doc_Template](https://github.com/nerun/RPG_Doc_Template) (archived)
 
 ### 🧙 Ultima Online
 
 - [RunUO](https://github.com/nerun/runuo)
-- [runuo-nerun-distro](https://github.com/nerun/runuo-nerun-distro)
+- [runuo-nerun-distro](https://github.com/nerun/runuo-nerun-distro) (archived)
 
 ## 🐧 Linux
 
-- [remastersys](https://github.com/nerun/remastersys)
+- [remastersys](https://github.com/nerun/remastersys) (archived)
 - [tomb](https://github.com/nerun/tomb)
 - [TutoraisBTRFS](https://github.com/nerun/TutoraisBTRFS)
 
