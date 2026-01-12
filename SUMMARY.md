@@ -20,7 +20,7 @@
 
 ### 🧙 Ultima Online
 
-- [WalkUO](https://github.com/nerun/walkuo) (RunUO fork)
+- [WalkUO](https://github.com/nerun/WalkUO) (RunUO fork)
 - [runuo-nerun-distro](https://github.com/nerun/runuo-nerun-distro) (archived)
 
 ## 🐧 Linux
