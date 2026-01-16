@@ -1,12 +1,10 @@
 ## :link: My sites
 
 * [GitHub Gist](https://gist.github.com/nerun) &mdash; my gist!
-* [GURPZine](https://www.gurpzine.com.br) &mdash; Tabletop Roleplaying Games ![brazilian portuguese][br]
-* [Linuxers Noobs](http://linuxernoob.blogspot.com) &mdash; Adventures of a linux newbie ![brazilian portuguese][br]
+* [GURPZine](https://www.gurpzine.com.br) &mdash; Tabletop Roleplaying Games :brazil:
+* [Linuxers Noobs](http://linuxernoob.blogspot.com) &mdash; Adventures of a linux newbie :brazil:
 * [Summary](SUMMARY.md) &mdash; Summary of my own repos
-* [GitLab](https://gitlab.com/danieldiasr) &mdash; my own gitlab
-
-[br]: flag-br.png
+* ![GitLab icon](media/gitlab.png) [GitLab](https://gitlab.com/danieldiasr) &mdash; my own gitlab
 
 ## 🔐 GnuPG Public Key
 
@@ -15,20 +13,19 @@ Import Command
 curl -s https://raw.githubusercontent.com/nerun/nerun/main/danieldiasr_gpg_public.asc | gpg --import
 ```
 
-## <img src="markdown.png" width="32px" style="vertical-align: text-bottom;"> Markdown Guides
+## <img src="media/markdown.png" width="32px" style="vertical-align: text-bottom;"> Markdown Guides
 
-* MENDEL, Gustavo. [Guia definitivo de markdown](https://github.com/mende1/guia-definitivo-de-markdown). _GitHub.com_. ![brazilian portuguese][br]
-* CONE, Matt. [Basic Syntax](https://www.markdownguide.org/basic-syntax). *Makdown Guide*. ![english][us]
-* GitHub Docs. [Writing on GitHub](https://docs.github.com/en/get-started/writing-on-github). _GitHub.com_. ![english][us]
-* PRITCHARD, Adam. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). _GitHub: markdown-here_. ![english][us]
+* MENDEL, Gustavo. [Guia definitivo de markdown](https://github.com/mende1/guia-definitivo-de-markdown). _GitHub.com_. :brazil:
+* CONE, Matt. [Basic Syntax](https://www.markdownguide.org/basic-syntax). *Makdown Guide*. :us:
+* GitHub Docs. [Writing on GitHub](https://docs.github.com/en/get-started/writing-on-github). _GitHub.com_. :us:
+* PRITCHARD, Adam. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). _GitHub: markdown-here_. :us:
 
 ## :bookmark: Bookmarks
-* [Online Markdown Editor](https://dillinger.io) &mdash; test your markdowns ![english][us]
-* [Progress Bar](https://github.com/guibranco/progressbar) &mdash; add progress bars as *badges* to your project ![english][us]
-* [SHIELDS IO](https://shields.io/) &mdash; create and add *badges* to your project ![english][us]
-* [Badges 4 README.md Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) &mdash; pre-made Shields.io badges ![english][us]
-
-[us]: flag-us.png
+* [Online Markdown Editor](https://dillinger.io) &mdash; test your markdowns :us:
+* [Progress Bar](https://github.com/guibranco/progressbar) &mdash; add progress bars as *badges* to your project :us:
+* [SHIELDS IO](https://shields.io/) &mdash; create and add *badges* to your project :us:
+* [Badges 4 README.md Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) &mdash; pre-made Shields.io badges :us:
+* [Emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet) :us:
 
 ## :coffee: Buy Me a Coffee
 
