@@ -4,15 +4,11 @@
 * [GURPZine](https://www.gurpzine.com.br) &mdash; Tabletop Roleplaying Games ![brazilian portuguese][br]
 * [Linuxers Noobs](http://linuxernoob.blogspot.com) &mdash; Adventures of a linux newbie ![brazilian portuguese][br]
 * [Summary](SUMMARY.md) &mdash; Summary of my own repos
+* [GitLab](https://gitlab.com/danieldiasr) &mdash; my own gitlab
 
 [br]: flag-br.png
 
 ## 🔐 GnuPG Public Key
-
-Fingerprint
-```
-9FA6F802133698568D6AE8019AEFB099C62DAB96
-```
 
 Import Command
 ```bash
