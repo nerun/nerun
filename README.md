@@ -29,5 +29,4 @@ curl -s https://raw.githubusercontent.com/nerun/nerun/main/danieldiasr_gpg_publi
 
 ## :coffee: Buy Me a Coffee
 
-<a href="https://www.paypal.com/donate/?hosted_button_id=T95ZWHGTG2GT2"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white&label=donate"></a>&nbsp;
-<a href="https://www.blockchain.com/explorer/addresses/btc/bc1q8uk7cxujtxfguxcqw9l7889zwee86q582ysgcf"><img src="https://img.shields.io/badge/Bitcoin-orange?style=for-the-badge&logo=bitcoin&logoColor=orange&label=donate"></a>&nbsp;
+<a href="https://www.paypal.com/donate/?hosted_button_id=T95ZWHGTG2GT2"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white&label=donate"></a>&nbsp;&nbsp;<a href="https://www.blockchain.com/explorer/addresses/btc/bc1q8uk7cxujtxfguxcqw9l7889zwee86q582ysgcf"><img src="https://img.shields.io/badge/Bitcoin-orange?style=for-the-badge&logo=bitcoin&logoColor=orange&label=donate"></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/PIX-7cead793--5312--4657--9441--3a9e10c4ed70-a68300?style=for-the-badge&logo=pix">
