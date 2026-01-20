@@ -10,7 +10,7 @@
 
 Import Command
 ```bash
-curl -s https://raw.githubusercontent.com/nerun/nerun/main/gpg_public.asc | gpg --import
+curl -s https://raw.githubusercontent.com/nerun/nerun/main/gpg_pubkey.asc | gpg --import
 ```
 
 ## <img src="media/markdown.png" width="32px" style="vertical-align: text-bottom;"> Markdown Guides
