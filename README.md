@@ -25,7 +25,7 @@ curl -s https://raw.githubusercontent.com/nerun/nerun/main/danieldiasr_gpg_publi
 * [Progress Bar](https://github.com/guibranco/progressbar) &mdash; add progress bars as *badges* to your project :us:
 * [SHIELDS IO](https://shields.io/) &mdash; create and add *badges* to your project :us:
 * [Badges 4 README.md Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) &mdash; pre-made Shields.io badges :us:
-* [Emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet) :us:
+* [Emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet) &mdash; supported emoji codes on GitHub :us:
 
 ## :coffee: Buy Me a Coffee
 
