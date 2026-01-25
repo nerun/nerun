@@ -15,7 +15,7 @@ curl -s https://raw.githubusercontent.com/nerun/nerun/main/gpg_pubkey.asc | gpg 
 
 ## <img src="media/markdown.png" width="32px" style="vertical-align: text-bottom;"> Markdown Guides
 
-* RODRIGUES, Daniel. [Referência Rápida de Markdown](Markdown.md). :brazil:
+* RODRIGUES, Daniel. [Referência Rápida de Markdown](Markdown.md). _GitHub.com_. :brazil:
 * MENDEL, Gustavo. [Guia definitivo de markdown](https://github.com/mende1/guia-definitivo-de-markdown). _GitHub.com_. :brazil:
 * CONE, Matt. [Basic Syntax](https://www.markdownguide.org/basic-syntax). *Makdown Guide*. :us:
 * GitHub Docs. [Writing on GitHub](https://docs.github.com/en/get-started/writing-on-github). _GitHub.com_. :us:
