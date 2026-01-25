@@ -1,7 +1,7 @@
 # Referência Rápida de Markdown
 
 **Por** Daniel Dias Rodrigues  
-**Última atualização:** Qua, 21 Jan 2026 10:47 -0300
+**Última atualização:** Sáb, 24 Jan 2026 23:43 -0300
 
 ## Blocos de comentário
 
