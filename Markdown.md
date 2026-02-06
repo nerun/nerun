@@ -1,11 +1,11 @@
 # Referência Rápida de Markdown
 
 **Por** Daniel Dias Rodrigues  
-**Última atualização:** Sáb, 24 Jan 2026 23:43 -0300
+**Última atualização:** Sex, 6 fev 2026 10:38 -0300
 
 ## Blocos de comentário
 
-```txt
+```markdown
 <!--
   Isto é um bloco de comentário.
   
@@ -14,30 +14,9 @@
 -->
 ```
 
-## Imagens
-
-```txt
-![alt](url/path "mouseover")
-```
-
-- **alt**: é o texto alternativo, exibido quando o carregamento da imagem falha.
-- **url**: `https://www.dominio.com.br`
-- **path**: `media/markdown.png`
-- **mouseover**: texto exibido ao passar o mouse sobre a imagem
-
-Exemplo:
-
-```txt
-![imagem exemplo](media/markdown.png "ícone da linguagem markdown")
-```
-
-Renderiza como:
-
-![imagem exemplo](media/markdown.png "ícone da linguagem markdown")
-
 ## Títulos
 
-```
+```markdown
 # Título 1
 
 ## Título 2
@@ -51,11 +30,15 @@ Renderiza como:
 ###### Título 6
 ```
 
-## Negrito e Itálico
+## Negrito, Itálico e Riscado
 
-`**negrito**` ou `__negrito__`
+```markdown
+**negrito** ou __negrito__
 
-`*itálico*` ou `_itálico_`
+*itálico* ou _itálico_
+
+~~riscado~~
+```
 
 ## Linhas
 
@@ -67,15 +50,19 @@ Em uma única linha, use um desses:
 
 ## Tabelas
 
-```txt
-| esquerda | centro | direita  |
-|:---------|:------:|---------:|
-| a        | b      | c        |
+Não é preciso usar o pipe "|" à esquerda ou direita da tabela, só no meio.
+As colunas nem mesmo precisam estar alinhadas.
+Esse é o design mínimo:
+
+```markdown
+esquerda | centro | direita
+:--------|:------:|---------:
+a        | b      | c
 ```
 
-| esquerda | centro | direita  |
-|:---------|:------:|---------:|
-| a        | b      | c        |
+esquerda | centro | direita
+:--------|:------:|---------:
+a        | b      | c
 
 Onde `:` indica o alinhamento do conteúdo
 
@@ -83,7 +70,7 @@ Onde `:` indica o alinhamento do conteúdo
 
 Lita não numeradas podem ser feitas com `+`, `-` ou `*`, e `4 espaços` definem uma sublista:
 
-```txt
+```markdown
 - Lorem ipsum
     - dolor sit amet
         - consectetur adipiscing elit
@@ -95,7 +82,7 @@ Lita não numeradas podem ser feitas com `+`, `-` ou `*`, e `4 espaços` definem
 
 Nas listas numeradas a diferença é o uso de números. Você pode até usar "1" em todos, que ele corrige a sua numeração:
 
-```txt
+```markdown
 1. Lorem ipsum
     1. dolor
     2. sit amet
@@ -113,7 +100,7 @@ Nas listas numeradas a diferença é o uso de números. Você pode até usar "1"
 
 ## Citação ou Blockquote
 
-```txt
+```markdown
 > Lorem ipsum
 >> dolor sit amet
 >>> consectetur adipiscing elit...
@@ -133,81 +120,47 @@ Alerta é um tipo especial de _blockquote_ que costuma renderizar apenas no GitH
 
 #### GitHub
 
-```txt
-> [!Note]
+```markdown
+> [!caution]
+> Sample Caution Callout Style
+
+> [!important]
+> Sample Important Callout Style
+
+> [!note]
 > Sample Note Callout Style
 
-> [!Tip]
+> [!tip]
 > Sample Tip Callout Style
 
-> [!Warning]
+> [!warning]
 > Sample Warning Callout Style
 ```
 
-> [!Note]
+> [!caution]
+> Sample Caution Callout Style
+
+> [!important]
+> Sample Important Callout Style
+
+> [!note]
 > Sample Note Callout Style
 
-> [!Tip]
+> [!tip]
 > Sample Tip Callout Style
 
-> [!Warning]
+> [!warning]
 > Sample Warning Callout Style
-
-#### Em qualquer outro lugar
-
-Pode-se improvisar algo parecido ou até melhor com a notação HTML:
-
-```html
-<div style="border-left: 5px solid #ffd700;
-    background: #ffffce; padding: 10px;
-    margin: 10px 0; color: #000000;">
-    &#128161; <strong>Dica:</strong> Lorem ipsum dolor sit amet.
-</div>
-```
-
-<div style="border-left: 5px solid #ffd700;
-    background: #ffffce; padding: 10px;
-    margin: 10px 0; color: #000000;">
-    &#128161; <strong>Dica:</strong> Lorem ipsum dolor sit amet.
-</div>
-
-```html
-<div style="border-left: 5px solid #2196F3;
-    background: #f0f8ff; padding: 10px;
-    margin: 10px 0; color: #000000;">
-    &#128221; <strong>Nota:</strong> Lorem ipsum dolor sit amet.
-</div>
-```
-
-<div style="border-left: 5px solid #2196F3;
-    background: #f0f8ff; padding: 10px;
-    margin: 10px 0; color: #000000;">
-    &#128221; <strong>Nota:</strong> Lorem ipsum dolor sit amet.
-</div>
-
-```html
-<div style="border-left: 5px solid #FF9800;
-    background: #fff3e0; padding: 10px;
-    margin: 10px 0; color: #000000;">
-    &#9888;&#65039; <strong>Aviso:</strong> Lorem ipsum dolor sit amet.
-</div>
-```
-
-<div style="border-left: 5px solid #FF9800;
-    background: #fff3e0; padding: 10px;
-    margin: 10px 0; color: #000000;">
-    &#9888;&#65039; <strong>Aviso:</strong> Lorem ipsum dolor sit amet.
-</div>
 
 ## Links e Notas de Rodapé
 
-```txt
+```markdown
 [Um link para br.lipsum.com](https://br.lipsum.com)
 ```
 
 [Um link para br.lipsum.com](https://br.lipsum.com)
 
-```txt
+```markdown
 [Um link de rodapé][1] (não confundir com nota de rodapé) costuma ser útil quando se quer reutilizar o mesmo link.
 
 [1]: https://www.gurpzine.com.br
@@ -217,7 +170,7 @@ Pode-se improvisar algo parecido ou até melhor com a notação HTML:
 
 [1]: https://www.gurpzine.com.br
 
-```txt
+```markdown
 Uma nota de rodapé[^1] costuma funcionar no GitHub e em alguns renderizadores.
 
 [^1]: Nota de rodapé.
@@ -226,6 +179,35 @@ Uma nota de rodapé[^1] costuma funcionar no GitHub e em alguns renderizadores.
 Uma nota de rodapé[^1] costuma funcionar no GitHub e em alguns renderizadores.
 
 [^1]: Nota de rodapé.
+
+## Imagens
+
+```markdown
+![alt](url/path "mouseover")
+```
+
+- **alt**: é o texto alternativo, exibido quando o carregamento da imagem falha.
+- **url**: `https://www.dominio.com.br`
+- **path**: `media/markdown.png`
+- **mouseover**: texto exibido ao passar o mouse sobre a imagem
+
+Exemplo:
+
+```markdown
+![imagem exemplo](media/markdown.png "ícone da linguagem markdown")
+```
+
+Renderiza como:
+
+![imagem exemplo](media/markdown.png "ícone da linguagem markdown")
+
+No fundo, imagens são como links, você pode usar link de rodapé também:
+
+```markdown
+![imagem exemplo][1]
+
+[1]: media/markdown.png
+```
 
 ## Código
 
@@ -234,8 +216,14 @@ Código de uma linha: <code>\`lorem ipsum\`</code>
 Código em bloco:
 
     ```linguagem
-    código
+    código  
     ```
+
+O bloco de código também pode ser criado apenas inserindo 4 espaços antes de cada linha do código:
+
+```
+    código  
+```
 
 ## HTML
 
