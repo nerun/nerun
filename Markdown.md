@@ -1,7 +1,7 @@
 # Referência Rápida de Markdown
 
 **Por** Daniel Dias Rodrigues  
-**Última atualização:** Sex, 6 fev 2026 11:22 -0300
+**Última atualização:** Sex, 6 fev 2026 12:10 -0300
 
 ## Blocos de comentário
 
@@ -32,6 +32,10 @@
 ###### Título 6
 ```
 
+Antigamente também se usava `===` ou `---` abaixo do texto para criar um título
+nível 1 ou nível 2, respectivamente. Isso é chamado de "Estilo Setext", em
+oposição ao "Estilo ATX" (acima). **Melhor evitar o Setext hoje em dia**.
+
 ## Negrito, Itálico e Riscado
 
 ```markdown
@@ -42,13 +46,18 @@
 ~~riscado~~
 ```
 
-## Linhas
+## Linhas Horizontais
 
 Sem nenhum outro texto na mesma linha, use um desses:
 
 - 3 hífens: `---`
 - 3 asteriscos: `***`
 - 3 underscores: `___`
+
+Três hífens (`---`) logo após um texto podem virar uma linha horizontal
+(`<hr>`) ou um título `<h2>`, dependendo do contexto e do renderizador.
+
+**REGRA:** Após um parágrafo, deixe sempre uma linha em branco.
 
 ## Tabelas
 
@@ -103,6 +112,18 @@ todos, que ele corrige a sua numeração:
 2. consectetur adipiscing elit
     1. sed do eiusmod
     2. tempor incididunt ut labore
+
+### Checklist
+
+Listas de tarefas são uma extensão comum (GitHub):
+
+```markdown
+- [ ] tarefa pendente
+- [x] tarefa concluída
+```
+
+- [ ] tarefa pendente
+- [x] tarefa concluída
 
 ## Citação ou Blockquote
 
@@ -260,25 +281,6 @@ o delimitador tem que ter mais crases do que o conteúdo.
 ```markdown
 `` `lorem ipsum` ``
 ```
-
-### Checklist
-
-Listas de tarefas são uma extensão comum (GitHub):
-
-```markdown
-- [ ] tarefa pendente
-- [x] tarefa concluída
-```
-
-- [ ] tarefa pendente
-- [x] tarefa concluída
-
-### Linha horizontal vs título
-
-Três hífens (`---`) logo após um texto podem virar uma linha horizontal
-(`<hr>`) ou um título `<h2>`, dependendo do contexto e do renderizador.
-
-Após um parágrafo, deixe sempre uma linha em branco.
 
 ## HTML
 
