@@ -1,7 +1,7 @@
 # Referência Rápida de Markdown
 
 **Por** Daniel Dias Rodrigues  
-**Última atualização:** Sex, 6 fev 2026 11:03 -0300
+**Última atualização:** Sex, 6 fev 2026 11:22 -0300
 
 ## Blocos de comentário
 
@@ -221,7 +221,7 @@ No fundo, imagens são como links, você pode usar link de rodapé também:
 
 ## Código
 
-Código de uma linha: <code>\`lorem ipsum\`</code>.
+Código de uma linha: `` `lorem ipsum` ``.
 
 Código em bloco é feito com cercas triplas antes e depois:
 
@@ -238,6 +238,47 @@ são preferíveis.
 ```
     código  
 ```
+
+## Dicas e Armadilhas Comuns
+
+Esta seção reúne detalhes que não fazem parte do Markdown básico, mas evitam
+erros frequentes em renderizadores reais.
+
+### Quebra de linha forçada
+
+Dois espaços no fim da linha forçam uma quebra de linha. Muita gente esquece
+isso.
+
+### Escape de caracteres
+
+Use barra invertida (`\`) para escapar caracteres especiais como
+`*`, `_`, `#`, etc.
+
+Quando o código contém crase, você envolve com duas. A regra real é:
+o delimitador tem que ter mais crases do que o conteúdo.
+
+```markdown
+`` `lorem ipsum` ``
+```
+
+### Checklist
+
+Listas de tarefas são uma extensão comum (GitHub):
+
+```markdown
+- [ ] tarefa pendente
+- [x] tarefa concluída
+```
+
+- [ ] tarefa pendente
+- [x] tarefa concluída
+
+### Linha horizontal vs título
+
+Três hífens (`---`) logo após um texto podem virar uma linha horizontal
+(`<hr>`) ou um título `<h2>`, dependendo do contexto e do renderizador.
+
+Após um parágrafo, deixe sempre uma linha em branco.
 
 ## HTML
 
