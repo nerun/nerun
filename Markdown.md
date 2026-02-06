@@ -1,7 +1,7 @@
 # Referência Rápida de Markdown
 
 **Por** Daniel Dias Rodrigues  
-**Última atualização:** Sex, 6 fev 2026 10:38 -0300
+**Última atualização:** Sex, 6 fev 2026 11:03 -0300
 
 ## Blocos de comentário
 
@@ -9,8 +9,10 @@
 <!--
   Isto é um bloco de comentário.
   
-  Ele não será renderizado pela maioria dos
-  programas.
+  Ele não será renderizado pela maioria dos programas.
+  
+  Funciona porque o Markdown aceita HTML embutido, mas comentários HTML não
+  fazem parte do Markdown original, são uma solução de escape.
 -->
 ```
 
@@ -42,7 +44,7 @@
 
 ## Linhas
 
-Em uma única linha, use um desses:
+Sem nenhum outro texto na mesma linha, use um desses:
 
 - 3 hífens: `---`
 - 3 asteriscos: `***`
@@ -50,9 +52,11 @@ Em uma única linha, use um desses:
 
 ## Tabelas
 
-Não é preciso usar o pipe "|" à esquerda ou direita da tabela, só no meio.
-As colunas nem mesmo precisam estar alinhadas.
-Esse é o design mínimo:
+Tabelas não fazem parte do Markdown original, são GitHub Flavored Markdown
+(GFM) / CommonMark com extensões.
+
+Não é preciso usar o pipe "|" à esquerda ou direita da tabela, só no meio. As
+colunas nem mesmo precisam estar alinhadas. Esse é o design mínimo:
 
 ```markdown
 esquerda | centro | direita
@@ -64,11 +68,12 @@ esquerda | centro | direita
 :--------|:------:|---------:
 a        | b      | c
 
-Onde `:` indica o alinhamento do conteúdo
+Onde `:` indica o alinhamento do conteúdo.
 
 ## Listas
 
-Lita não numeradas podem ser feitas com `+`, `-` ou `*`, e `4 espaços` definem uma sublista:
+Listas não numeradas podem ser feitas com `+`, `-` ou `*`, e `4 espaços`
+definem uma sublista:
 
 ```markdown
 - Lorem ipsum
@@ -80,7 +85,8 @@ Lita não numeradas podem ser feitas com `+`, `-` ou `*`, e `4 espaços` definem
     - dolor sit amet
         - consectetur adipiscing elit
 
-Nas listas numeradas a diferença é o uso de números. Você pode até usar "1" em todos, que ele corrige a sua numeração:
+Nas listas numeradas a diferença é o uso de números. Você pode até usar "1" em
+todos, que ele corrige a sua numeração:
 
 ```markdown
 1. Lorem ipsum
@@ -106,19 +112,21 @@ Nas listas numeradas a diferença é o uso de números. Você pode até usar "1"
 >>> consectetur adipiscing elit...
 ```
 
-A renderização varia. Alguns vão exibir um _blockquote_ simples, sem decoração, outros algo mais decorado:
+A renderização varia. Alguns vão exibir um _blockquote_ simples, sem decoração,
+outros algo mais decorado:
 
 > Lorem ipsum
 >> dolor sit amet
 >>> consectetur adipiscing elit...
 
-Por isso chamei de "citação", porque nos fóruns quando se cita uma resposta aparece uma barra vertical na esquerda com a pergunta original.
+No Markdown o nome é _blockquote_, mas o efeito prático é de "citação", como
+quando nos fóruns alguém cita ("quote") uma resposta e aparece uma barra
+vertical na esquerda com a pergunta original.
 
 ### Alertas
 
-Alerta é um tipo especial de _blockquote_ que costuma renderizar apenas no GitHub:
-
-#### GitHub
+Alerta é um tipo especial de _blockquote_. Não é padrão Markdown, é extensão do
+GitHub:
 
 ```markdown
 > [!caution]
@@ -161,12 +169,14 @@ Alerta é um tipo especial de _blockquote_ que costuma renderizar apenas no GitH
 [Um link para br.lipsum.com](https://br.lipsum.com)
 
 ```markdown
-[Um link de rodapé][1] (não confundir com nota de rodapé) costuma ser útil quando se quer reutilizar o mesmo link.
+[Um link de rodapé][1] (não confundir com nota de rodapé) costuma ser útil
+quando se quer reutilizar o mesmo link.
 
 [1]: https://www.gurpzine.com.br
 ```
 
-[Um link de rodapé][1] (não confundir com nota de rodapé) costuma ser útil quando se quer reutilizar o mesmo link.
+[Um link de rodapé][1] (não confundir com nota de rodapé) costuma ser útil
+quando se quer reutilizar o mesmo link.
 
 [1]: https://www.gurpzine.com.br
 
@@ -211,15 +221,19 @@ No fundo, imagens são como links, você pode usar link de rodapé também:
 
 ## Código
 
-Código de uma linha: <code>\`lorem ipsum\`</code>
+Código de uma linha: <code>\`lorem ipsum\`</code>.
 
-Código em bloco:
+Código em bloco é feito com cercas triplas antes e depois:
 
     ```linguagem
     código  
     ```
 
-O bloco de código também pode ser criado apenas inserindo 4 espaços antes de cada linha do código:
+A "linguagem" é opcional, mas melhora o _highlight_.
+
+O bloco de código também pode ser criado apenas inserindo 4 espaços antes de
+cada linha do código. É um método antigo, ainda suportado, mas cercas triplas
+são preferíveis.
 
 ```
     código  
@@ -227,7 +241,8 @@ O bloco de código também pode ser criado apenas inserindo 4 espaços antes de 
 
 ## HTML
 
-Markdown suporta HTML muito bem, quando se quer algo mais complexo ou que não funciona no renderizador que voce usa, o HTML sempre funciona.
+Markdown suporta HTML muito bem, quando se quer algo mais complexo ou que não
+funciona no renderizador que você usa, o HTML sempre funciona.
 
 ## Símbolos UTF-8 úteis
 
@@ -238,4 +253,6 @@ Markdown suporta HTML muito bem, quando se quer algo mais complexo ou que não f
 | emoticon mão esq | `&#128072;` | &#128072; |
 | emoticon mão dir | `&#128073;` | &#128073; |
 
-Para outros símbolos, consulte [UTF-8](https://www.w3schools.com/charsets/ref_utf_basic_latin.asp).
+Para outros símbolos, consulte [w3schools: HTML UTF-8 Characters][utf8].
+
+[utf8]: https://www.w3schools.com/charsets/default.asp
