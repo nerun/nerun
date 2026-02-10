@@ -1,10 +1,10 @@
 ## :link: My sites
 
+* [Summary](SUMMARY.md) &mdash; Summary of my own repos in GitHub
 * [GitHub Gist](https://gist.github.com/nerun) &mdash; my gist!
-* [GURPZine](https://www.gurpzine.com.br) &mdash; Tabletop Roleplaying Games :brazil:
-* [Linuxers Noobs](http://linuxernoob.blogspot.com) &mdash; Adventures of a linux newbie :brazil:
-* [Summary](SUMMARY.md) &mdash; Summary of my own repos
 * ![GitLab icon](media/gitlab.png) [GitLab](https://gitlab.com/danieldiasr) &mdash; my own gitlab
+* ( :brazil: ) [GURPZine](https://www.gurpzine.com.br) &mdash; Tabletop Roleplaying Games
+* ( :brazil: ) [TuxZine](https://tux.gurpzine.com.br) &mdash; Short tutorials for everyday problems in Linux
 
 ## 🔐 GnuPG Public Key
 
@@ -15,18 +15,18 @@ curl -s https://raw.githubusercontent.com/nerun/nerun/main/gpg_pubkey.asc | gpg 
 
 ## <img src="media/markdown.png" width="32px" style="vertical-align: text-bottom;"> Markdown Guides
 
-* RODRIGUES, Daniel. [Referência Rápida de Markdown](Markdown.md). _GitHub: nerun_. :brazil:
-* MENDEL, Gustavo. [Guia definitivo de markdown](https://github.com/mende1/guia-definitivo-de-markdown). _GitHub: guia-definitivo-de-markdown_. :brazil:
-* CONE, Matt. [Basic Syntax](https://www.markdownguide.org/basic-syntax). *Makdown Guide*. :us:
-* GitHub Docs. [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). _GitHub.com_. :us:
-* PRITCHARD, Adam. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). _GitHub: markdown-here_. :us:
+* ( :brazil: ) RODRIGUES, Daniel. [Referência Rápida de Markdown](Markdown.md). _GitHub: nerun/nerun_.
+* ( :brazil: ) MENDEL, Gustavo. [Guia definitivo de markdown](https://github.com/mende1/guia-definitivo-de-markdown). _GitHub: mende1/<wbr>guia-definitivo-de-markdown_.
+* ( :us: ) CONE, Matt. [Basic Syntax](https://www.markdownguide.org/basic-syntax). *Makdown Guide*.
+* ( :us: ) GITHUB DOCS. [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+* ( :us: ) PRITCHARD, Adam. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). _GitHub: adam-p/<wbr>markdown-here/<wbr>wiki_.
 
 ## :bookmark: Bookmarks
-* [Online Markdown Editor](https://dillinger.io) &mdash; test your markdowns :us:
-* [Progress Bar](https://github.com/guibranco/progressbar) &mdash; add progress bars as *badges* to your project :us:
-* [SHIELDS IO](https://shields.io/) &mdash; create and add *badges* to your project :us:
-* [Badges 4 README.md Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) &mdash; pre-made Shields.io badges :us:
-* [Emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet) &mdash; supported emoji codes on GitHub :us:
+* [Online Markdown Editor](https://dillinger.io) &mdash; test your markdowns
+* [Progress Bar](https://github.com/guibranco/progressbar) &mdash; add progress bars as *badges* to your project
+* [SHIELDS IO](https://shields.io/) &mdash; create and add *badges* to your project
+* [Badges 4 README.md Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) &mdash; pre-made Shields.io badges
+* [Emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet) &mdash; supported emoji codes on GitHub
 
 ## :coffee: Buy Me a Coffee
 
