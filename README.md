@@ -18,7 +18,7 @@ curl -s https://raw.githubusercontent.com/nerun/nerun/main/gpg_pubkey.asc | gpg 
 * RODRIGUES, Daniel. [Referência Rápida de Markdown](Markdown.md). _GitHub: nerun_. :brazil:
 * MENDEL, Gustavo. [Guia definitivo de markdown](https://github.com/mende1/guia-definitivo-de-markdown). _GitHub: guia-definitivo-de-markdown_. :brazil:
 * CONE, Matt. [Basic Syntax](https://www.markdownguide.org/basic-syntax). *Makdown Guide*. :us:
-* GitHub Docs. [Writing on GitHub](https://docs.github.com/en/get-started/writing-on-github). _GitHub.com_. :us:
+* GitHub Docs. [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). _GitHub.com_. :us:
 * PRITCHARD, Adam. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). _GitHub: markdown-here_. :us:
 
 ## :bookmark: Bookmarks
