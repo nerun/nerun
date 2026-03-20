@@ -4,7 +4,7 @@
 * [GitHub Gist](https://gist.github.com/nerun) &mdash; my gist!
 * ![GitLab icon](media/gitlab.png) [GitLab](https://gitlab.com/danieldiasr) &mdash; my gitlab
 * ( :brazil: ) [GURPZine](https://www.gurpzine.com.br) &mdash; Tabletop Roleplaying Games
-* ( :brazil: ) [TuxZine](https://tux.gurpzine.com.br) &mdash; Short tutorials for everyday problems in Linux
+* ( :brazil: ) [TuxZine](https://tux.gurpzine.com.br) &mdash; notes, articles and short tutorials about my experiences for everyday problems in Linux
 
 ## 🔐 GnuPG Public Key
 
