@@ -1,6 +1,6 @@
 ## :link: My sites
 
-* [Summary](SUMMARY.md) &mdash; Summary of my repositories
+* [Summary](SUMMARY.md) of my repositories
 * [GitHub Gist](https://gist.github.com/nerun) &mdash; my gist!
 * ![GitLab icon](media/gitlab.png) [GitLab](https://gitlab.com/danieldiasr) &mdash; my gitlab
 * ( :brazil: ) [GURPZine](https://www.gurpzine.com.br) &mdash; Tabletop Roleplaying Games
