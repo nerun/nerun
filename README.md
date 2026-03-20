@@ -1,8 +1,8 @@
 ## :link: My sites
 
-* [Summary](SUMMARY.md) &mdash; Summary of my own repos in GitHub
+* [Summary](SUMMARY.md) &mdash; Summary of my repositories
 * [GitHub Gist](https://gist.github.com/nerun) &mdash; my gist!
-* ![GitLab icon](media/gitlab.png) [GitLab](https://gitlab.com/danieldiasr) &mdash; my own gitlab
+* ![GitLab icon](media/gitlab.png) [GitLab](https://gitlab.com/danieldiasr) &mdash; my gitlab
 * ( :brazil: ) [GURPZine](https://www.gurpzine.com.br) &mdash; Tabletop Roleplaying Games
 * ( :brazil: ) [TuxZine](https://tux.gurpzine.com.br) &mdash; Short tutorials for everyday problems in Linux
 
