@@ -3,6 +3,7 @@
 ## 📘 DokuWiki
 
 - [dokuwiki-plugin-avatar](https://github.com/nerun/dokuwiki-plugin-avatar)
+- [dokuwiki-template-bootstrap3](https://github.com/nerun/dokuwiki-template-bootstrap3)
 - [dokuwiki-plugin-parserfunctions ](https://github.com/nerun/dokuwiki-plugin-parserfunctions)
 - [dokuwiki-plugin-templater](https://github.com/nerun/dokuwiki-plugin-templater)
 
@@ -25,6 +26,7 @@
 
 ## 🐧 Linux
 
+- [Advanced cp/mv](https://github.com/nerun/advcpmv)
 - [remastersys](https://github.com/nerun/remastersys) (archived)
 - [tomb](https://github.com/nerun/tomb)
 - [TutoraisBTRFS](https://github.com/nerun/TutoraisBTRFS)
