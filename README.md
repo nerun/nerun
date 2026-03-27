@@ -1,6 +1,6 @@
 ## 🤷‍♂️ About My Avatar
 
-Just out of curiosity: I used this avatar for years back in the good old days of the [RunUO](https://runuo.github.io/runuo/) emulator forums, sometime in the 2000s. I never knew where it came from. Twenty years later, I found out it’s the cover art from the album *Ten Thousand Fists* (2005) by *Disturbed*. That grinning guy is literally called “The Guy.”
+Just out of curiosity: I used this avatar for years back in the good old days of the [RunUO](https://runuo.github.io/runuo/) emulator forums, sometime in the 2000s. It comes from the cover art from the album *[Ten Thousand Fists](https://en.wikipedia.org/wiki/Ten_Thousand_Fists)* (2005) by *Disturbed*. That grinning guy is literally called “The Guy.”
 
 ## :link: My sites
 
