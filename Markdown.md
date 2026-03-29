@@ -214,13 +214,13 @@ Uma nota de rodapé[^1] costuma funcionar no GitHub e em alguns renderizadores.
 ## Imagens
 
 ```markdown
-![alt](url/path "mouseover")
+![alt](url/path "title")
 ```
 
 - **alt**: é o texto alternativo, exibido quando o carregamento da imagem falha.
 - **url**: `https://www.dominio.com.br`
 - **path**: `media/markdown.png`
-- **mouseover**: texto exibido ao passar o mouse sobre a imagem
+- **title**: texto exibido ao passar o mouse sobre a imagem
 
 Exemplo:
 
