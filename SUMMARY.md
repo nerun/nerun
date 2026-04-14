@@ -18,7 +18,7 @@
 - [sistema2d6](https://github.com/nerun/sistema2d6)
 - [sistema-daemon](https://github.com/nerun/sistema-daemon)
 - [RPG_Doc_Template](https://github.com/nerun/RPG_Doc_Template) (archived)
-- [ose-srd](https://github.com/nerun/ose-srd) (fork)
+- [ose-srd](https://github.com/nerun/ose-srd)
 
 ### 🧙 Ultima Online
 
