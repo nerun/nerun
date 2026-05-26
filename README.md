@@ -7,8 +7,7 @@ Just out of curiosity: I used this avatar for years back in the good old days of
 * [Summary](SUMMARY.md) of my repositories
 * [GitHub Gist](https://gist.github.com/nerun) &mdash; my gist!
 * ![GitLab icon](media/gitlab.png) [GitLab](https://gitlab.com/danieldiasr) &mdash; my gitlab
-* ( :brazil: ) [GURPZine](https://www.gurpzine.com.br) &mdash; Tabletop Roleplaying Games
-* ( :brazil: ) [TuxZine](https://tux.gurpzine.com.br) &mdash; notes, articles and short tutorials about my experiences for everyday problems in Linux
+* [All my links!](https://allmylinks.com/danieldiasr)
 
 ## 🔐 GnuPG Public Key
 
