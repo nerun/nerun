@@ -2,11 +2,10 @@
 
 Just out of curiosity: I used this avatar for years back in the good old days of the [RunUO](https://runuo.github.io/runuo/) emulator forums, sometime in the 2000s. It comes from the cover art of the album *[Ten Thousand Fists](https://en.wikipedia.org/wiki/Ten_Thousand_Fists)* (2005) by *Disturbed*. That grinning guy is literally called “The Guy.”
 
-## :link: My sites
+## :link: My links
 
 * [Summary](SUMMARY.md) of my repositories
 * [GitHub Gist](https://gist.github.com/nerun) &mdash; my gist!
-* ![GitLab icon](media/gitlab.png) [GitLab](https://gitlab.com/danieldiasr) &mdash; my gitlab
 * [All my links!](https://allmylinks.com/danieldiasr)
 
 ## 🔐 GnuPG Public Key
