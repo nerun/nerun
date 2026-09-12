@@ -13,7 +13,6 @@
 
 ### 🎲 Tabeltop RPG
 
-- [Basic Roleplaying](https://github.com/nerun/brpugesrd_pt-br)
 - [cepheus](https://github.com/nerun/cepheus)
 - [legend-srd](https://github.com/nerun/legend-srd)
 - [sistema2d6](https://github.com/nerun/sistema2d6)
