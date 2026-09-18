@@ -28,7 +28,6 @@
 
 - [Advanced cp/mv](https://github.com/nerun/advcpmv)
 - [remastersys](https://github.com/nerun/remastersys) (archived)
-- [tmux-named-snapshot](https://github.com/nerun/tmux-named-snapshot)
 - [tomb](https://github.com/nerun/tomb)
 - [TutoraisBTRFS](https://github.com/nerun/TutoraisBTRFS)
 
