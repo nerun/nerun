@@ -30,7 +30,6 @@
 - [Obsidian theme: soft-paper](https://github.com/nerun/soft-paper)
 - [remastersys](https://github.com/nerun/remastersys) (archived)
 - [tomb](https://github.com/nerun/tomb)
-- [TutoraisBTRFS](https://github.com/nerun/TutoraisBTRFS)
 
 ## 🗂️ Others
 
