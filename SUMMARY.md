@@ -13,6 +13,7 @@
 
 ### 🎲 Tabeltop RPG
 
+- [3D&T for Windows 95](https://github.com/nerun/3dT)
 - [cepheus](https://github.com/nerun/cepheus)
 - [legend-srd](https://github.com/nerun/legend-srd)
 - [sistema2d6](https://github.com/nerun/sistema2d6)
