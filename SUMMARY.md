@@ -1,5 +1,9 @@
 # Summary
 
+## 🗂️ Documentation
+
+- [lawhub](https://github.com/nerun/lawhub)
+
 ## 📘 DokuWiki
 
 - [dokuwiki-plugin-avatar](https://github.com/nerun/dokuwiki-plugin-avatar)
@@ -32,9 +36,9 @@
 - [remastersys](https://github.com/nerun/remastersys) (archived)
 - [tomb](https://github.com/nerun/tomb)
 
-## 🗂️ Others
+## 🛠️ Tools
 
-- [lawhub](https://github.com/nerun/lawhub)
+- [PDF Unlocker](https://github.com/nerun/pdf-unlocker)
 
 ## 🌐 Web
 
