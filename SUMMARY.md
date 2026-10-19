@@ -26,8 +26,9 @@
 
 ### 🧙 Ultima Online
 
-- [WalkUO](https://github.com/nerun/WalkUO) (RunUO fork)
 - [runuo-nerun-distro](https://github.com/nerun/runuo-nerun-distro) (archived)
+- [UOPatchServer](https://github.com/nerun/UOPatchServer) (fork)
+- [WalkUO](https://github.com/nerun/WalkUO) (RunUO fork)
 
 ## 🐧 Linux
 
