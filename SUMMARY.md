@@ -48,5 +48,6 @@
 - [gatsby-gitbook-starter](https://github.com/nerun/gatsby-gitbook-starter)
 - [php-coreutils](https://github.com/nerun/php-coreutils)
 - [php-directory-indexer](https://github.com/nerun/php-directory-indexer)
+- [Redmi AX5400 router translator](https://github.com/nerun/redmi-ax5400-translation/tree/claude-opus55-medium) (Tampermonkey script)
 - [terminix](https://github.com/nerun/terminix)
 - [tinyfilemanager](https://github.com/nerun/tinyfilemanager)
