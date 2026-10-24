@@ -718,7 +718,7 @@ Para quem escreve programas que usam o GnuPG, algumas recomendações:
 ## Histórico (History)
 
 - 1999. *The GNU Privacy Handbook*, versão 1.1. Autores: Mike Ashley, Matthew Copeland, Joergen Grahn e David A. Wheeler. Editora: The Free Software Foundation. Disponível em [gnupg.org/gph/en/manual.html](https://www.gnupg.org/gph/en/manual.html).
-- 2026. *Manual de Privacidade GNU*, tradução do original para o português do Brasil.
+- 2026. *Manual de Privacidade GNU*, tradução do original para o português do Brasil. Tradutor e editor: Daniel Dias Rodrigues.
 - 2026. *Guia de Privacidade com GnuPG 2.4*, versão modificada. Autor e editor: Daniel Dias Rodrigues. Licença alterada para a GNU FDL 1.3 ou posterior. Principais mudanças: comandos e saídas atualizados para o GnuPG 2.4.9; chaves Ed25519/Cv25519 no lugar de DSA/Elgamal; nova recomendação sobre expiração; certificado de revogação automático, `gpg-agent` e *pinentry*; servidores de chaves após 2019, WKD e entrega direta de assinaturas; conceitos revistos (AES, tamanhos de chave, quebra do SHA-1, integridade, modo OCB, ameaça quântica); novo Capítulo 5 (e-mail, Git, SSH, verificação de downloads, interfaces); seção jurídica revista, com referência ao direito brasileiro; remoção de referências e links que deixaram de existir.
 
 ## Fontes
