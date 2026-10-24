@@ -14,6 +14,7 @@ Import Command
 ```bash
 curl -s https://raw.githubusercontent.com/nerun/nerun/main/gpg_pubkey.asc | gpg --import
 ```
+Read my guide: [Guia de Privacidade com GnuPG 2.4](Guia%20de%20Privacidade%20com%20GnuPG%202.4.md) ( :brazil: )
 
 ## <img src="media/markdown.png" width="32px" style="vertical-align: text-bottom;"> Markdown Guides
 
