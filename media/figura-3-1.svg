@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 272" width="760" height="272" role="img" aria-label="Cada seta é uma assinatura; Geoff fica a quatro passos de Alice" font-family="sans-serif" font-size="13">
+  <defs>
+    <marker id="wot-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M0 0L10 5L0 10z" fill="#888888"/>
+    </marker>
+  </defs>
+  <text x="24" y="34" font-size="15" font-weight="600" fill="#111111">Cada seta é uma assinatura; Geoff fica a quatro passos de Alice</text>
+  <g fill="none" stroke="#888888" stroke-width="1.25">
+    <path d="M132 152H152V104H172" marker-end="url(#wot-arrow)"/>
+    <path d="M132 152H152V200H172" marker-end="url(#wot-arrow)"/>
+    <path d="M276 104H316" marker-end="url(#wot-arrow)"/>
+    <path d="M276 192H296V114H316" marker-end="url(#wot-arrow)"/>
+    <path d="M276 208H316" marker-end="url(#wot-arrow)"/>
+    <path d="M368 124V180" marker-end="url(#wot-arrow)"/>
+    <path d="M420 104H460" marker-end="url(#wot-arrow)"/>
+    <path d="M564 104H604" marker-end="url(#wot-arrow)"/>
+  </g>
+  <!-- Nodes: main node (Alice) is filled; others are outlined -->
+  <rect x="28" y="132" width="104" height="40" rx="8" fill="#2a6fdb" fill-opacity="0.12" stroke="#2a6fdb" stroke-width="2"/>
+  <text x="80" y="156" text-anchor="middle" font-weight="600" fill="#111111">Alice</text>
+
+  <rect x="172" y="84" width="104" height="40" rx="8" fill="none" stroke="#888888" stroke-width="1.25"/>
+  <text x="224" y="108" text-anchor="middle" fill="#111111">Blake</text>
+  <rect x="172" y="180" width="104" height="40" rx="8" fill="none" stroke="#888888" stroke-width="1.25"/>
+  <text x="224" y="204" text-anchor="middle" fill="#111111">Dharma</text>
+
+  <rect x="316" y="84" width="104" height="40" rx="8" fill="none" stroke="#888888" stroke-width="1.25"/>
+  <text x="368" y="108" text-anchor="middle" fill="#111111">Chloe</text>
+  <rect x="316" y="180" width="104" height="40" rx="8" fill="none" stroke="#888888" stroke-width="1.25"/>
+  <text x="368" y="204" text-anchor="middle" fill="#111111">Francis</text>
+
+  <rect x="460" y="84" width="104" height="40" rx="8" fill="none" stroke="#888888" stroke-width="1.25"/>
+  <text x="512" y="108" text-anchor="middle" fill="#111111">Elena</text>
+
+  <rect x="604" y="84" width="104" height="40" rx="8" fill="none" stroke="#888888" stroke-width="1.25"/>
+  <text x="656" y="108" text-anchor="middle" fill="#111111">Geoff</text>
+
+  <g font-size="11.5" fill="#555555" text-anchor="middle">
+    <text x="80" y="248">raiz</text>
+    <text x="224" y="248">1 passo</text>
+    <text x="368" y="248">2 passos</text>
+    <text x="512" y="248">3 passos</text>
+    <text x="656" y="248">4 passos</text>
+  </g>
+</svg>
