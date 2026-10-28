@@ -7,7 +7,6 @@
 ## 📘 DokuWiki
 
 - [dokuwiki-plugin-avatar](https://github.com/nerun/dokuwiki-plugin-avatar)
-- [dokuwiki-template-bootstrap3](https://github.com/nerun/dokuwiki-template-bootstrap3)
 - [dokuwiki-plugin-parserfunctions ](https://github.com/nerun/dokuwiki-plugin-parserfunctions)
 - [dokuwiki-plugin-templater](https://github.com/nerun/dokuwiki-plugin-templater)
 
@@ -51,3 +50,4 @@
 - [Redmi AX5400 router translator](https://github.com/nerun/redmi-ax5400-translator) (Tampermonkey script)
 - [terminix](https://github.com/nerun/terminix)
 - [tinyfilemanager](https://github.com/nerun/tinyfilemanager)
+- [wp-category-dropdown](https://github.com/nerun/wp-category-dropdown) (Wordpress plugin)
