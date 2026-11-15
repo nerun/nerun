@@ -38,6 +38,7 @@
 
 ## 🛠️ Tools
 
+- [3L2Mark](https://github.com/nerun/3L2Mark) (Local LLM Benchmark suite)
 - [CRC-16 checksum](https://github.com/nerun/crc16)
 - [llama.cpp](https://github.com/nerun/llama.cpp)
 - [PDF Unlocker](https://github.com/nerun/pdf-unlocker)
