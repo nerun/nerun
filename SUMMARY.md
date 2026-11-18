@@ -21,7 +21,8 @@
 - [legend-srd](https://github.com/nerun/legend-srd)
 - [sistema2d6](https://github.com/nerun/sistema2d6)
 - [RPG_Doc_Template](https://github.com/nerun/RPG_Doc_Template) (archived)
-- [ose-srd](https://github.com/nerun/ose-srd)
+- [ose-srd](https://github.com/pedroleone/ose-srd) (contributor; uses gatsby)
+- [ose-srd](https://github.com/nerun/ose-srd) (fork created using mdbook)
 
 ### 🧙 Ultima Online
 
@@ -31,7 +32,7 @@
 
 ## 🐧 Linux
 
-- [Advanced cp/mv](https://github.com/nerun/advcpmv)
+- [Advanced cp/mv](https://github.com/jarun/advcpmv) (contributor)
 - [Obsidian theme: soft-paper](https://github.com/nerun/soft-paper)
 - [remastersys](https://github.com/nerun/remastersys) (archived)
 - [tomb](https://github.com/nerun/tomb)
